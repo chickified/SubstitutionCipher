@@ -19,6 +19,6 @@ The variable 'three' is used to store the Most Significant Bit. Before each of t
 
 Decrypting will basically be the reverse process of the encryption process.
 
-```Text
+```JavaScript
 Test
 ```
